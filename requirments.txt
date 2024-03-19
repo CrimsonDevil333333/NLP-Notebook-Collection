@@ -1,0 +1,5 @@
+qdrant_client
+torch
+ipywidgets
+sentence-transformers
+gensim
