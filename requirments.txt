@@ -3,3 +3,4 @@ torch
 ipywidgets
 sentence-transformers
 gensim
+seaborn
