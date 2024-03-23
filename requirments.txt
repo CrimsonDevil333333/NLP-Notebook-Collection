@@ -1,9 +1,13 @@
 transformers datasets
+tf-keras
 torch
 tensorflow
+pylzma
+matplotlib
 qdrant_client
 ipywidgets
 sentence-transformers
 gensim
 seaborn
 plotly
+accelerate
