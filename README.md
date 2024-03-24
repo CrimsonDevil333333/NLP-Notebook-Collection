@@ -1,4 +1,4 @@
-# Crash cource for LLM's
+# LLM Creation?
 
 <!-- ## Commands Need to be Excuted
 
@@ -21,4 +21,4 @@ This section focuses on practical techniques for generating embeddings using pop
 </br>SentenceTransformers: Introduce SentenceTransformers, a Python library for generating sentence embeddings using pre-trained transformer models (e.g., BERT, RoBERTa). Demonstrate how to use SentenceTransformers to encode sentences into high-dimensional vectors for downstream tasks.
 
 * 03 -> Working with Transformers</br>
-This section focuses on the world of transformers, a groundbreaking architecture in natural language processing (NLP), and its applications in performing various NLP tasks such as sentiment analysis, text classification, machine translation, and more.
+This section focuses on the world of transformers, a groundbreaking architecture in natural language processing (NLP), and its applications in performing various NLP tasks such as sentiment analysis, text classification, machine translation, and more.</br>Introduction to pipelines, tokenizers and it's archetecture....
