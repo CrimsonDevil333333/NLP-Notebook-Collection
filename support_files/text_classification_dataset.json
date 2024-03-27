@@ -1,0 +1,126 @@
+[
+    {
+        "text": "This movie is great!",
+        "label": 1
+    },
+    {
+        "text": "I didn't like this film.",
+        "label": 0
+    },
+    {
+        "text": "The acting was superb.",
+        "label": 1
+    },
+    {
+        "text": "It was a terrible experience.",
+        "label": 0
+    },
+    {
+        "text": "I loved the plot of the movie.",
+        "label": 1
+    },
+    {
+        "text": "The direction was awful.",
+        "label": 0
+    },
+    {
+        "text": "The movie was okay.",
+        "label": 1
+    },
+    {
+        "text": "The film was neither good nor bad.",
+        "label": 2
+    },
+    {
+        "text": "I thoroughly enjoyed watching this film.",
+        "label": 1
+    },
+    {
+        "text": "The storyline was captivating.",
+        "label": 1
+    },
+    {
+        "text": "The movie had a lot of potential but fell short.",
+        "label": 0
+    },
+    {
+        "text": "I found the acting to be quite impressive.",
+        "label": 1
+    },
+    {
+        "text": "The cinematography was breathtaking.",
+        "label": 1
+    },
+    {
+        "text": "I couldn't wait for the movie to end.",
+        "label": 0
+    },
+    {
+        "text": "The characters were well-developed.",
+        "label": 1
+    },
+    {
+        "text": "The movie left me feeling indifferent.",
+        "label": 2
+    },
+    {
+        "text": "The soundtrack added to the overall experience.",
+        "label": 1
+    },
+    {
+        "text": "I was disappointed by the ending.",
+        "label": 0
+    },
+    {
+        "text": "The special effects were impressive.",
+        "label": 1
+    },
+    {
+        "text": "The pacing of the movie was too slow.",
+        "label": 0
+    },
+    {
+        "text": "I would recommend this film to everyone.",
+        "label": 1
+    },
+    {
+        "text": "The movie was a complete waste of time.",
+        "label": 0
+    },
+    {
+        "text": "The dialogue felt forced and unnatural.",
+        "label": 0
+    },
+    {
+        "text": "I was pleasantly surprised by how much I enjoyed it.",
+        "label": 1
+    },
+    {
+        "text": "The movie lacked originality.",
+        "label": 0
+    },
+    {
+        "text": "The performances were lackluster.",
+        "label": 0
+    },
+    {
+        "text": "The film exceeded my expectations.",
+        "label": 1
+    },
+    {
+        "text": "The movie lacked depth.",
+        "label": 0
+    },
+    {
+        "text": "I found myself emotionally invested in the characters.",
+        "label": 1
+    },
+    {
+        "text": "The movie was overhyped and underwhelming.",
+        "label": 0
+    },
+    {
+        "text": "The plot twists were predictable.",
+        "label": 0
+    }
+]
